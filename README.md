@@ -8,6 +8,7 @@ EasyBuggy :baby_symbol:
 EasyBuggy is a broken web application in order to understand behavior of bugs and vulnerabilities, for example, [memory leak, deadlock, JVM crash, SQL injection and so on](https://github.com/k-tamura/easybuggy#clock4-easybuggy-can-reproduce).
 
 ![logo](https://raw.githubusercontent.com/wiki/k-tamura/easybuggy/images/mov_eb.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAWatanabe418%2Feasybuggy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAWatanabe418%2Feasybuggy?ref=badge_shield)
 
 :clock4: Quick Start
 -
@@ -136,3 +137,7 @@ This demo shows: Start up -> Infinite Loop -> LDAP Injection -> UnsatisfiedLinkE
   EasyBuggy clone build on Django 2 and written in Python
 
   　![logo](https://github.com/k-tamura/easybuggy4django/blob/master/static/easybuggy.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAWatanabe418%2Feasybuggy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAWatanabe418%2Feasybuggy?ref=badge_large)
